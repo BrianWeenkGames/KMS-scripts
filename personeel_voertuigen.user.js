@@ -6,7 +6,7 @@
 // @author      BOS-Ernie
 // @description Weist benötigtes Personal einem Fahrzeug zu.
 // @match       https://*.leitstellenspiel.de/vehicles/*/zuweisung
-// @match        https://www.meldkamerspel.com/missions/*
+// @match        https://*.meldkamerspel.com/vehicles/*
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=leitstellenspiel.de
 // @run-at      document-idle
 // @grant       none
