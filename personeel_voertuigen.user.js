@@ -3,7 +3,7 @@
 // @namespace   bos-ernie.leitstellenspiel.de
 // @version     2.0.0
 // @license     BSD-3-Clause
-// @author      BOS-Ernie
+// @author      BOS-Ernie - Edited by brianweenk
 // @description Weist benötigtes Personal einem Fahrzeug zu.
 // @match       https://*.leitstellenspiel.de/vehicles/*/zuweisung
 // @match        https://*.meldkamerspel.com/vehicles/*
