@@ -2,7 +2,7 @@
 // @name [MKS]Voertuigen ter plaatse
 // @namespace http://tampermonkey.net/
 // @version 1.0
-// @description try to take over the world!
+// @description Overzicht hoeveel voertuigen je aanwezig / aanrijdend hebt bij een melding!
 // @author BrianWeenk
 // @match https://www.meldkamerspel.com/missions/*
 // @require http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js

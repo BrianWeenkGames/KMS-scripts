@@ -4,7 +4,7 @@
 // @version     2.0.0
 // @license     BSD-3-Clause
 // @author      BOS-Ernie - Edited by brianweenk
-// @description Weist benötigtes Personal einem Fahrzeug zu.
+// @description Wijs automatisch benodigd personeel toe aan het voertuig.
 // @match       https://*.leitstellenspiel.de/vehicles/*/zuweisung
 // @match        https://*.meldkamerspel.com/vehicles/*
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=leitstellenspiel.de

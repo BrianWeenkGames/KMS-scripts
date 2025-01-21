@@ -2,7 +2,7 @@
 // @name         voertuiglimitbalk
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  try to take over the world!
+// @description  Scheelt klikjes bij inladen van de voertuigenlijst!
 // @author       brianweenk
 // @match        https://www.meldkamerspel.com/missions/*
 // @grant        none

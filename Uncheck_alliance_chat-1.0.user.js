@@ -3,7 +3,7 @@
 // @name         Uncheck alliance chat
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  try to take over the world!
+// @description  Zorg er voor dat je niet perongeluk een bericht in de teamchat post bij een melding :)
 // @author       BrianWeenk
 // @match        https://www.meldkamerspel.com/missions/*
 // @match        https://*.meldkamerspel.com/missions/*
