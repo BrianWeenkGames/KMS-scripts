@@ -3,7 +3,7 @@
 // @namespace http://tampermonkey.net/
 // @version 1.0
 // @description Overzicht hoeveel voertuigen je aanwezig / aanrijdend hebt bij een melding!
-// @author BrianWeenk
+// @author NHendriks01 - Edited by Brianweenk
 // @match https://www.meldkamerspel.com/missions/*
 // @require http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
 // @downloadURL https://raw.githubusercontent.com/NHendriks01/LSS-MKS/main/Voertuigen_ter_plaatse.user.js
